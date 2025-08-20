@@ -1,0 +1,516 @@
+Make,Model,Year,Body Type,Engine,Horsepower,Torque,MSRP (USD),City MPG,Highway MPG,0-60 mph (sec)
+Toyota,Camry,2025,Sedan,2.5L 4-Cylinder Hybrid,225,163,28400,51.0,50.0,7.4
+Honda,Civic,2025,Sedan,2.0L 4-Cylinder,158,138,24600,31.0,40.0,8.1
+Ford,F-150,2025,Truck,3.5L EcoBoost V6,400,500,36570,18.0,24.0,5.4
+Chevrolet,Silverado 1500,2025,Truck,5.3L V8,355,383,37600,16.0,21.0,6.5
+BMW,3 Series,2025,Sedan,2.0L Turbo Inline-4,255,295,45900,25.0,34.0,5.6
+Audi,Q5,2025,SUV,2.0L Turbo Inline-4,201,236,48000,23.0,29.0,6.8
+Tesla,Model 3,2025,Sedan,Electric Motor,283,310,40240,132.0,125.0,5.8
+Nissan,Rogue,2025,SUV,1.5L VC-Turbo I-3,201,225,28800,30.0,37.0,8.0
+Subaru,Forester,2025,SUV,2.5L 4-Cylinder,182,176,27800,26.0,33.0,8.7
+Hyundai,Tucson,2025,SUV,2.5L 4-Cylinder,187,178,27500,25.0,32.0,8.8
+Kia,Telluride,2025,SUV,3.8L V6,291,262,37500,20.0,26.0,7.5
+Toyota,RAV4,2025,SUV,2.5L 4-Cylinder,203,184,29000,27.0,35.0,8.0
+Ford,Mustang,2025,Coupe,2.3L EcoBoost I-4,315,350,31000,22.0,33.0,5.1
+Chevrolet,Malibu,2025,Sedan,1.5L Turbo I-4,160,184,25000,27.0,35.0,8.2
+BMW,X5,2025,SUV,3.0L Turbo Inline-6,375,398,67500,23.0,27.0,4.8
+Audi,A4,2025,Sedan,2.0L Turbo I-4,201,236,42000,26.0,35.0,6.3
+Tesla,Model Y,2025,SUV,Electric Motor,384,420,45240,127.0,117.0,4.8
+Nissan,Titan,2025,Truck,5.6L V8,400,413,45800,16.0,21.0,6.0
+Subaru,Outback,2025,SUV,2.5L 4-Cylinder,182,176,29800,26.0,32.0,8.6
+Hyundai,Palisade,2025,SUV,3.8L V6,291,262,38000,19.0,27.0,7.1
+Kia,Sportage,2025,SUV,2.5L 4-Cylinder,187,178,28000,25.0,32.0,8.8
+Toyota,Highlander,2025,SUV,2.4L Turbo I-4,265,310,40000,22.0,29.0,7.5
+Ford,Explorer,2025,SUV,2.3L EcoBoost I-4,300,310,37000,21.0,28.0,6.0
+Chevrolet,Tahoe,2025,SUV,5.3L V8,355,383,56000,15.0,20.0,7.0
+BMW,5 Series,2025,Sedan,2.0L Turbo Inline-4,255,295,57500,27.0,35.0,5.7
+Audi,e-tron GT,2025,Sedan,Electric Motor,522,472,107000,81.0,83.0,3.9
+Tesla,Model S,2025,Sedan,Electric Motor,670,723,74990,120.0,114.0,3.1
+Nissan,Sentra,2025,Sedan,2.0L 4-Cylinder,149,146,21000,29.0,39.0,9.0
+Subaru,Crosstrek,2025,SUV,2.0L 4-Cylinder,152,145,25000,27.0,34.0,9.5
+Hyundai,Elantra,2025,Sedan,2.0L 4-Cylinder,147,132,22000,31.0,41.0,8.5
+Kia,Sorento,2025,SUV,2.5L 4-Cylinder,191,181,33000,24.0,29.0,8.5
+Toyota,4Runner,2025,SUV,4.0L V6,270,278,42000,16.0,19.0,7.8
+Ford,Bronco,2025,SUV,2.3L EcoBoost I-4,300,325,35000,20.0,21.0,6.5
+Chevrolet,Equinox,2025,SUV,1.5L Turbo I-4,175,203,27000,26.0,31.0,8.7
+BMW,X3,2025,SUV,2.0L Turbo Inline-4,248,258,48000,23.0,29.0,6.0
+Audi,Q3,2025,SUV,2.0L Turbo I-4,184,221,38000,22.0,30.0,8.0
+Tesla,Model X,2025,SUV,Electric Motor,670,723,79990,102.0,99.0,3.8
+Nissan,Pathfinder,2025,SUV,3.5L V6,284,259,38000,21.0,27.0,6.7
+Subaru,Impreza,2025,Hatchback,2.0L 4-Cylinder,152,145,23000,26.0,34.0,9.5
+Hyundai,Santa Fe,2025,SUV,2.5L Turbo I-4,277,311,36000,20.0,28.0,7.0
+Kia,Carnival,2025,Minivan,3.5L V6,290,262,34000,19.0,26.0,8.5
+Toyota,Tacoma,2025,Truck,2.4L Turbo I-4,278,317,38500,21.0,26.0,7.5
+Ford,Escape,2025,SUV,1.5L EcoBoost I-3,181,190,29000,28.0,34.0,8.7
+Chevrolet,Blazer,2025,SUV,2.0L Turbo I-4,228,258,36000,22.0,29.0,7.0
+BMW,X1,2025,SUV,2.0L Turbo I-4,241,295,41000,25.0,34.0,6.2
+Audi,A3,2025,Sedan,2.0L Turbo I-4,201,221,36000,29.0,38.0,6.3
+Tesla,Cybertruck,2025,Truck,Electric Motor,600,700,60990,98.0,95.0,4.1
+Nissan,Murano,2025,SUV,3.5L V6,260,240,38000,20.0,28.0,7.3
+Subaru,Legacy,2025,Sedan,2.5L 4-Cylinder,182,176,26000,27.0,35.0,8.6
+Hyundai,Kona,2025,SUV,2.0L 4-Cylinder,147,132,24000,29.0,34.0,9.2
+Kia,Forte,2025,Sedan,2.0L 4-Cylinder,147,132,21000,30.0,41.0,8.5
+Toyota,Tundra,2025,Truck,3.4L Twin-Turbo V6,389,479,42000,18.0,24.0,6.0
+Ford,Edge,2025,SUV,2.0L EcoBoost I-4,250,280,39000,21.0,28.0,7.0
+Chevrolet,Trailblazer,2025,SUV,1.2L Turbo I-3,137,162,24000,29.0,33.0,9.0
+BMW,4 Series,2025,Coupe,2.0L Turbo Inline-4,255,295,51000,25.0,34.0,5.5
+Audi,A5,2025,Coupe,2.0L Turbo I-4,201,236,46000,24.0,33.0,6.4
+Tesla,Roadster,2025,Roadster,Electric Motor,1000,1000,200000,nan,nan,1.9
+Nissan,Versa,2025,Sedan,1.6L 4-Cylinder,122,114,18000,32.0,40.0,9.7
+Subaru,WRX,2025,Sedan,2.4L Turbo 4-Cylinder,271,258,33000,19.0,26.0,5.5
+Hyundai,Sonata,2025,Sedan,2.5L 4-Cylinder,191,181,28000,25.0,36.0,8.0
+Kia,Stinger,2025,Sedan,2.5L Turbo I-4,300,311,42000,22.0,32.0,5.2
+Toyota,Corolla,2025,Sedan,2.0L 4-Cylinder,169,151,23000,32.0,41.0,8.5
+Ford,Maverick,2025,Truck,2.5L Hybrid I-4,191,155,25000,42.0,33.0,7.9
+Chevrolet,Colorado,2025,Truck,2.7L Turbo I-4,237,259,31000,20.0,25.0,7.5
+BMW,i4,2025,Sedan,Electric Motor,335,317,52500,109.0,108.0,5.5
+Audi,Q4 e-tron,2025,SUV,Electric Motor,201,229,50000,100.0,89.0,7.9
+Tesla,Model 3 Performance,2025,Sedan,Electric Motor,455,470,55000,113.0,109.0,3.5
+Nissan,Frontier,2025,Truck,3.8L V6,310,281,31000,18.0,24.0,7.5
+Subaru,Ascent,2025,SUV,2.4L Turbo 4-Cylinder,260,277,35000,20.0,26.0,7.3
+Hyundai,Venue,2025,SUV,1.6L 4-Cylinder,121,113,21000,29.0,33.0,10.0
+Kia,K5,2025,Sedan,1.6L Turbo I-4,180,195,26000,29.0,38.0,7.0
+Toyota,Sienna,2025,Minivan,2.5L 4-Cylinder Hybrid,245,175,37000,36.0,36.0,7.5
+Ford,Bronco Sport,2025,SUV,1.5L EcoBoost I-3,181,190,31000,25.0,28.0,8.2
+Chevrolet,Traverse,2025,SUV,2.5L Turbo I-4,328,326,39000,20.0,26.0,7.0
+BMW,iX,2025,SUV,Electric Motor,516,564,88000,86.0,87.0,4.4
+Audi,A6,2025,Sedan,2.0L Turbo I-4,261,273,57000,24.0,31.0,6.1
+Tesla,Model S Plaid,2025,Sedan,Electric Motor,1020,1050,89990,113.0,103.0,2.1
+Nissan,Armada,2025,SUV,5.6L V8,400,413,55000,14.0,19.0,7.0
+Subaru,BRZ,2025,Coupe,2.4L 4-Cylinder,228,184,31000,20.0,27.0,6.0
+Hyundai,Tucson Hybrid,2025,SUV,1.6L Turbo Hybrid,226,258,32000,38.0,38.0,7.5
+Kia,Soul,2025,Hatchback,2.0L 4-Cylinder,147,132,20000,28.0,33.0,8.8
+Toyota,Venza,2025,SUV,2.5L 4-Cylinder Hybrid,219,163,35000,40.0,37.0,7.6
+Ford,Mustang Mach-E,2025,SUV,Electric Motor,266,317,43000,105.0,91.0,6.1
+Chevrolet,Corvette,2025,Coupe,6.2L V8,490,465,69000,16.0,24.0,2.9
+BMW,X7,2025,SUV,3.0L Turbo Inline-6,375,398,81000,21.0,25.0,5.8
+Audi,A7,2025,Sedan,3.0L Turbo V6,335,369,70000,21.0,30.0,5.2
+Tesla,Model Y Long Range,2025,SUV,Electric Motor,384,420,50240,127.0,117.0,4.8
+Nissan,Kicks,2025,SUV,1.6L 4-Cylinder,122,114,22000,31.0,36.0,9.5
+Subaru,Solterra,2025,SUV,Electric Motor,215,249,45000,114.0,94.0,6.5
+Hyundai,Ioniq 5,2025,SUV,Electric Motor,168,258,43000,127.0,94.0,7.4
+Kia,Niro,2025,SUV,1.6L Hybrid,139,195,28000,53.0,48.0,9.5
+Toyota,Sequoia,2025,SUV,3.4L Twin-Turbo V6 Hybrid,437,583,60000,20.0,22.0,6.0
+Ford,F-250 Super Duty,2025,Truck,6.7L V8 Diesel,475,1050,45000,15.0,20.0,7.0
+Chevrolet,Silverado HD,2025,Truck,6.6L V8,401,464,43000,14.0,18.0,7.5
+BMW,i7,2025,Sedan,Electric Motor,536,549,120000,87.0,88.0,4.5
+Audi,Q8 e-tron,2025,SUV,Electric Motor,402,490,75000,90.0,87.0,5.5
+Tesla,Model X Plaid,2025,SUV,Electric Motor,1020,1050,94990,102.0,99.0,2.5
+Nissan,Z,2025,Coupe,3.0L Twin-Turbo V6,400,350,42000,18.0,24.0,4.5
+Subaru,Forrester Wilderness,2025,SUV,2.5L 4-Cylinder,182,176,34000,25.0,28.0,9.0
+Hyundai,Palisade Calligraphy,2025,SUV,3.8L V6,291,262,52000,19.0,27.0,7.1
+Kia,Seltos,2025,SUV,2.0L 4-Cylinder,146,132,25000,28.0,34.0,9.5
+Toyota,Grand Highlander,2025,SUV,2.4L Turbo I-4,265,310,43000,21.0,28.0,7.5
+Ford,Mustang GT,2025,Coupe,5.0L V8,480,415,42000,15.0,24.0,4.3
+Chevrolet,Camaro,2025,Coupe,2.0L Turbo I-4,275,295,31000,22.0,30.0,5.4
+BMW,M3,2025,Sedan,3.0L Twin-Turbo Inline-6,473,406,76000,16.0,23.0,3.9
+Audi,R8,2025,Coupe,5.2L V10,562,406,150000,13.0,20.0,3.4
+Tesla,Model S Long Range,2025,Sedan,Electric Motor,670,723,74990,120.0,114.0,3.1
+Nissan,Rogue Hybrid,2025,SUV,2.0L 4-Cylinder Hybrid,207,210,32000,34.0,37.0,7.8
+Subaru,WRX STI,2025,Sedan,2.5L Turbo 4-Cylinder,310,290,40000,18.0,24.0,5.0
+Hyundai,Santa Cruz,2025,Truck,2.5L 4-Cylinder,191,181,27000,22.0,26.0,7.5
+Kia,Soul EV,2025,Hatchback,Electric Motor,201,291,35000,112.0,98.0,7.0
+Toyota,Corolla Cross,2025,SUV,2.0L 4-Cylinder,169,151,25000,31.0,33.0,9.0
+Ford,Escape Hybrid,2025,SUV,2.5L Hybrid,200,155,32000,42.0,37.0,8.8
+Chevrolet,Silverado EV,2025,Truck,Electric Motor,510,615,52000,80.0,75.0,4.5
+BMW,i5,2025,Sedan,Electric Motor,335,317,67000,105.0,100.0,5.7
+Audi,e-tron GT RS,2025,Sedan,Electric Motor,637,612,147000,81.0,83.0,3.1
+Tesla,Model Y Performance,2025,SUV,Electric Motor,455,470,55240,121.0,111.0,3.5
+Nissan,Sentra SR,2025,Sedan,2.0L 4-Cylinder,149,146,24000,28.0,37.0,8.8
+Subaru,Crosstrek Hybrid,2025,SUV,2.0L Plug-in Hybrid,148,149,37000,90.0,90.0,10.0
+Hyundai,Elantra N,2025,Sedan,2.0L Turbo I-4,276,289,34000,22.0,31.0,5.0
+Kia,Sportage Hybrid,2025,SUV,1.6L Turbo Hybrid,226,258,31000,38.0,38.0,7.5
+Toyota,Sienna Hybrid,2025,Minivan,2.5L 4-Cylinder Hybrid,245,175,37000,36.0,36.0,7.5
+Ford,Explorer ST,2025,SUV,3.0L EcoBoost V6,400,415,50000,18.0,24.0,5.2
+Chevrolet,Silverado 2500HD,2025,Truck,6.6L V8,401,464,45000,14.0,18.0,7.5
+BMW,X3 M,2025,SUV,3.0L Turbo Inline-6,473,457,73000,15.0,20.0,3.9
+Audi,Q5 Sportback,2025,SUV,2.0L Turbo Inline-4,201,236,52000,23.0,29.0,6.8
+Tesla,Model 3 Long Range,2025,Sedan,Electric Motor,393,400,47240,131.0,120.0,4.2
+Nissan,Titan XD,2025,Truck,5.6L V8,400,413,48000,15.0,20.0,6.5
+Subaru,Outback Wilderness,2025,SUV,2.4L Turbo 4-Cylinder,260,277,39000,22.0,26.0,7.5
+Hyundai,Palisade SE,2025,SUV,3.8L V6,291,262,38000,19.0,27.0,7.1
+Kia,Stinger GT-Line,2025,Sedan,2.5L Turbo I-4,300,311,42000,22.0,32.0,5.2
+Toyota,RAV4 Hybrid,2025,SUV,2.5L 4-Cylinder Hybrid,219,163,32000,41.0,38.0,7.8
+Ford,Escape Plug-in Hybrid,2025,SUV,2.5L Hybrid,221,155,35000,105.0,100.0,8.0
+Chevrolet,Blazer EV,2025,SUV,Electric Motor,240,300,45000,103.0,88.0,6.0
+BMW,X5 M,2025,SUV,4.4L Turbo V8,617,553,110000,13.0,18.0,3.7
+Audi,A4 Allroad,2025,Wagon,2.0L Turbo I-4,261,273,46000,24.0,30.0,5.8
+Tesla,Model S Standard,2025,Sedan,Electric Motor,670,723,74990,120.0,114.0,3.1
+Nissan,Sentra SV,2025,Sedan,2.0L 4-Cylinder,149,146,22000,29.0,39.0,9.0
+Subaru,Crosstrek Sport,2025,SUV,2.5L 4-Cylinder,182,176,28000,26.0,33.0,8.7
+Hyundai,Elantra SEL,2025,Sedan,2.0L 4-Cylinder,147,132,23000,31.0,41.0,8.5
+Kia,Sorento Hybrid,2025,SUV,1.6L Turbo Hybrid,227,258,37000,39.0,35.0,8.0
+Toyota,Highlander Hybrid,2025,SUV,2.5L 4-Cylinder Hybrid,243,175,42000,36.0,35.0,7.5
+Ford,Explorer Limited,2025,SUV,2.3L EcoBoost I-4,300,310,49000,21.0,28.0,6.0
+Chevrolet,Tahoe Z71,2025,SUV,5.3L V8,355,383,63000,15.0,20.0,7.0
+BMW,5 Series xDrive,2025,Sedan,2.0L Turbo Inline-4,255,295,59500,27.0,35.0,5.7
+Audi,A6 Allroad,2025,Wagon,3.0L Turbo V6,335,369,70000,21.0,28.0,5.1
+Tesla,Model X Long Range,2025,SUV,Electric Motor,670,723,79990,102.0,99.0,3.8
+Nissan,Pathfinder Rock Creek,2025,SUV,3.5L V6,295,270,44000,21.0,27.0,6.7
+Subaru,Impreza RS,2025,Hatchback,2.5L 4-Cylinder,182,178,27000,26.0,34.0,8.5
+Hyundai,Santa Fe Hybrid,2025,SUV,1.6L Turbo Hybrid,226,258,41000,36.0,31.0,7.8
+Kia,Carnival SX,2025,Minivan,3.5L V6,290,262,46000,19.0,26.0,8.5
+Toyota,Tundra Hybrid,2025,Truck,3.4L Twin-Turbo V6 Hybrid,437,583,56000,20.0,24.0,5.7
+Ford,Edge ST,2025,SUV,2.7L EcoBoost V6,335,380,47000,19.0,26.0,6.0
+Chevrolet,Trailblazer RS,2025,SUV,1.3L Turbo I-3,155,174,26000,29.0,33.0,8.7
+BMW,4 Series Gran Coupe,2025,Sedan,2.0L Turbo Inline-4,255,295,53000,25.0,34.0,5.5
+Audi,A5 Sportback,2025,Sedan,2.0L Turbo I-4,201,236,46000,24.0,33.0,6.4
+Tesla,Model 3 Rear-Wheel Drive,2025,Sedan,Electric Motor,283,310,40240,132.0,125.0,5.8
+Nissan,Versa S,2025,Sedan,1.6L 4-Cylinder,122,114,18000,32.0,40.0,9.7
+Subaru,WRX Premium,2025,Sedan,2.4L Turbo 4-Cylinder,271,258,35000,19.0,26.0,5.5
+Hyundai,Sonata Hybrid,2025,Sedan,2.0L Hybrid,192,139,30000,45.0,51.0,8.5
+Kia,K5 GT-Line,2025,Sedan,1.6L Turbo I-4,180,195,28000,29.0,38.0,7.0
+Toyota,Corolla Hybrid,2025,Sedan,1.8L Hybrid,138,105,24000,50.0,47.0,9.0
+Ford,Maverick Hybrid,2025,Truck,2.5L Hybrid I-4,191,155,25000,42.0,33.0,7.9
+Chevrolet,Colorado Z71,2025,Truck,2.7L Turbo I-4,310,430,38000,18.0,23.0,6.5
+BMW,i4 eDrive35,2025,Sedan,Electric Motor,282,295,50000,109.0,108.0,5.8
+Audi,Q4 Sportback e-tron,2025,SUV,Electric Motor,201,229,53000,100.0,89.0,7.9
+Tesla,Cybertruck Tri-Motor,2025,Truck,Electric Motor,800,900,80990,95.0,90.0,2.9
+Nissan,Frontier PRO-4X,2025,Truck,3.8L V6,310,281,41000,17.0,22.0,7.9
+Subaru,Ascent Touring,2025,SUV,2.4L Turbo 4-Cylinder,260,277,45000,20.0,26.0,7.3
+Hyundai,Venue SEL,2025,SUV,1.6L 4-Cylinder,121,113,22000,29.0,33.0,10.0
+Kia,Soul GT-Line,2025,Hatchback,2.0L 4-Cylinder,147,132,23000,28.0,33.0,8.8
+Toyota,Venza Hybrid,2025,SUV,2.5L 4-Cylinder Hybrid,219,163,35000,40.0,37.0,7.6
+Ford,Mustang Mach-E GT,2025,SUV,Electric Motor,480,634,59000,90.0,77.0,3.5
+Chevrolet,Corvette Z06,2025,Coupe,5.5L V8,670,460,110000,12.0,17.0,2.6
+BMW,X7 xDrive40i,2025,SUV,3.0L Turbo Inline-6,375,398,81000,21.0,25.0,5.8
+Audi,A7 Sportback,2025,Sedan,3.0L Turbo V6,335,369,70000,21.0,30.0,5.2
+Tesla,Model Y Standard,2025,SUV,Electric Motor,283,310,45240,127.0,117.0,5.8
+Nissan,Kicks SR,2025,SUV,1.6L 4-Cylinder,122,114,24000,31.0,36.0,9.5
+Subaru,Solterra Limited,2025,SUV,Electric Motor,215,249,48000,114.0,94.0,6.5
+Hyundai,Ioniq 5 SE,2025,SUV,Electric Motor,168,258,43000,127.0,94.0,7.4
+Kia,Niro Hybrid,2025,SUV,1.6L Hybrid,139,195,28000,53.0,48.0,9.5
+Toyota,Sequoia Platinum,2025,SUV,3.4L Twin-Turbo V6 Hybrid,437,583,80000,20.0,22.0,6.0
+Ford,F-250 Super Duty Lariat,2025,Truck,6.7L V8 Diesel,475,1050,65000,15.0,20.0,7.0
+Chevrolet,Silverado 1500 RST,2025,Truck,5.3L V8,355,383,42000,16.0,21.0,6.5
+BMW,i7 xDrive60,2025,Sedan,Electric Motor,536,549,120000,87.0,88.0,4.5
+Audi,Q8 Sportback e-tron,2025,SUV,Electric Motor,402,490,78000,90.0,87.0,5.5
+Tesla,Model X Plaid,2025,SUV,Electric Motor,1020,1050,94990,102.0,99.0,2.5
+Nissan,Z Performance,2025,Coupe,3.0L Twin-Turbo V6,400,350,52000,18.0,24.0,4.5
+Subaru,WRX GT,2025,Sedan,2.4L Turbo 4-Cylinder,271,258,44000,19.0,26.0,5.5
+Hyundai,Santa Cruz SEL,2025,Truck,2.5L 4-Cylinder,191,181,29000,22.0,26.0,7.5
+Kia,Telluride SX Prestige,2025,SUV,3.8L V6,291,262,54000,20.0,26.0,7.5
+Toyota,Corolla Cross Hybrid,2025,SUV,2.0L 4-Cylinder Hybrid,194,139,29000,45.0,43.0,8.0
+Ford,Escape ST-Line,2025,SUV,1.5L EcoBoost I-3,181,190,31000,28.0,34.0,8.7
+Chevrolet,Blazer RS,2025,SUV,3.6L V6,308,270,42000,19.0,27.0,6.3
+BMW,X3 M40i,2025,SUV,3.0L Turbo Inline-6,382,369,62000,21.0,26.0,4.4
+Audi,Q3 S Line,2025,SUV,2.0L Turbo I-4,228,258,42000,22.0,30.0,7.0
+Tesla,Model 3 Long Range AWD,2025,Sedan,Electric Motor,393,400,47240,131.0,120.0,4.2
+Nissan,Rogue SL,2025,SUV,1.5L VC-Turbo I-3,201,225,34000,30.0,37.0,8.0
+Subaru,Forester Premium,2025,SUV,2.5L 4-Cylinder,182,176,30000,26.0,33.0,8.7
+Hyundai,Tucson N Line,2025,SUV,2.5L 4-Cylinder,187,178,33000,25.0,32.0,8.8
+Kia,Sorento EX,2025,SUV,2.5L 4-Cylinder,191,181,35000,24.0,29.0,8.5
+Toyota,RAV4 TRD Off-Road,2025,SUV,2.5L 4-Cylinder,203,184,38000,25.0,32.0,8.3
+Ford,Mustang Dark Horse,2025,Coupe,5.0L V8,500,418,58000,14.0,22.0,4.0
+Chevrolet,Malibu LT,2025,Sedan,1.5L Turbo I-4,160,184,27000,27.0,35.0,8.2
+BMW,X1 xDrive28i,2025,SUV,2.0L Turbo I-4,241,295,41000,25.0,34.0,6.2
+Audi,A3 S Line,2025,Sedan,2.0L Turbo I-4,201,221,38000,29.0,38.0,6.3
+Tesla,Model Y Long Range AWD,2025,SUV,Electric Motor,384,420,50240,127.0,117.0,4.8
+Nissan,Pathfinder Platinum,2025,SUV,3.5L V6,284,259,50000,21.0,27.0,6.7
+Subaru,Outback Limited,2025,SUV,2.5L 4-Cylinder,182,176,34000,26.0,32.0,8.6
+Hyundai,Palisade Limited,2025,SUV,3.8L V6,291,262,47000,19.0,27.0,7.1
+Kia,Sportage X-Pro,2025,SUV,2.5L 4-Cylinder,187,178,37000,23.0,28.0,9.0
+Toyota,Highlander XLE,2025,SUV,2.4L Turbo I-4,265,310,43000,22.0,29.0,7.5
+Ford,Explorer XLT,2025,SUV,2.3L EcoBoost I-4,300,310,40000,21.0,28.0,6.0
+Chevrolet,Equinox LT,2025,SUV,1.5L Turbo I-4,175,203,29000,26.0,31.0,8.7
+BMW,i5 M60,2025,Sedan,Electric Motor,590,586,85000,98.0,90.0,3.7
+Audi,e-tron GT Prestige,2025,Sedan,Electric Motor,522,472,110000,81.0,83.0,3.9
+Tesla,Model S Plaid,2025,Sedan,Electric Motor,1020,1050,89990,113.0,103.0,2.1
+Nissan,Armada SL,2025,SUV,5.6L V8,400,413,60000,14.0,19.0,7.0
+Subaru,Legacy Sport,2025,Sedan,2.4L Turbo 4-Cylinder,260,277,34000,24.0,31.0,6.1
+Hyundai,Kona SEL,2025,SUV,2.0L 4-Cylinder,147,132,26000,29.0,34.0,9.2
+Kia,K5 GT,2025,Sedan,2.5L Turbo I-4,290,311,31000,24.0,32.0,5.7
+Toyota,Tundra Limited,2025,Truck,3.4L Twin-Turbo V6,389,479,54000,18.0,24.0,6.0
+Ford,Edge Titanium,2025,SUV,2.0L EcoBoost I-4,250,280,42000,21.0,28.0,7.0
+Chevrolet,Traverse Z71,2025,SUV,2.5L Turbo I-4,328,326,46000,20.0,26.0,7.0
+BMW,X7 M60i,2025,SUV,4.4L Turbo V8,523,553,103000,18.0,21.0,4.5
+Audi,Q8 e-tron Premium,2025,SUV,Electric Motor,402,490,75000,90.0,87.0,5.5
+Tesla,Model X Long Range,2025,SUV,Electric Motor,670,723,79990,102.0,99.0,3.8
+Nissan,Titan Platinum Reserve,2025,Truck,5.6L V8,400,413,63000,16.0,21.0,6.0
+Subaru,BRZ Premium,2025,Coupe,2.4L 4-Cylinder,228,184,31000,20.0,27.0,6.0
+Hyundai,Tucson Limited,2025,SUV,2.5L 4-Cylinder,187,178,37000,25.0,32.0,8.8
+Kia,Sorento SX,2025,SUV,2.5L 4-Cylinder,191,181,40000,24.0,29.0,8.5
+Toyota,Sequoia Limited,2025,SUV,3.4L Twin-Turbo V6 Hybrid,437,583,69000,20.0,22.0,6.0
+Ford,Bronco Badlands,2025,SUV,2.7L EcoBoost V6,330,415,48000,17.0,19.0,6.5
+Chevrolet,Blazer RS,2025,SUV,3.6L V6,308,270,42000,19.0,27.0,6.3
+BMW,i4 M50,2025,Sedan,Electric Motor,536,586,69000,94.0,89.0,3.7
+Audi,Q4 e-tron 50,2025,SUV,Electric Motor,295,339,55000,100.0,89.0,6.0
+Tesla,Cybertruck Dual Motor AWD,2025,Truck,Electric Motor,600,700,60990,98.0,95.0,4.1
+Nissan,Rogue SV,2025,SUV,1.5L VC-Turbo I-3,201,225,31000,30.0,37.0,8.0
+Subaru,Outback Onyx Edition,2025,SUV,2.4L Turbo 4-Cylinder,260,277,39000,22.0,29.0,7.5
+Hyundai,Palisade SEL,2025,SUV,3.8L V6,291,262,42000,19.0,27.0,7.1
+Kia,Sportage SX Prestige,2025,SUV,2.5L 4-Cylinder,187,178,35000,25.0,32.0,8.8
+Toyota,RAV4 XLE,2025,SUV,2.5L 4-Cylinder,203,184,32000,27.0,35.0,8.0
+Ford,Mustang GT Premium,2025,Coupe,5.0L V8,480,415,47000,15.0,24.0,4.3
+Chevrolet,Malibu RS,2025,Sedan,1.5L Turbo I-4,160,184,26000,27.0,35.0,8.2
+BMW,X3 xDrive30i,2025,SUV,2.0L Turbo Inline-4,248,258,48000,23.0,29.0,6.0
+Audi,A3 Premium,2025,Sedan,2.0L Turbo I-4,201,221,36000,29.0,38.0,6.3
+Tesla,Model 3 Performance,2025,Sedan,Electric Motor,455,470,55000,113.0,109.0,3.5
+Nissan,Sentra SR,2025,Sedan,2.0L 4-Cylinder,149,146,24000,28.0,37.0,8.8
+Subaru,Crosstrek Limited,2025,SUV,2.5L 4-Cylinder,182,176,32000,26.0,33.0,8.7
+Hyundai,Elantra Limited,2025,Sedan,2.0L 4-Cylinder,147,132,25000,31.0,41.0,8.5
+Kia,Seltos SX,2025,SUV,1.6L Turbo I-4,195,195,30000,27.0,31.0,7.0
+Toyota,Corolla LE,2025,Sedan,2.0L 4-Cylinder,169,151,24000,32.0,41.0,8.5
+Ford,Maverick Lariat,2025,Truck,2.0L EcoBoost I-4,250,277,31000,23.0,30.0,6.0
+Chevrolet,Colorado LT,2025,Truck,2.7L Turbo I-4,237,259,33000,20.0,25.0,7.5
+BMW,430i,2025,Coupe,2.0L Turbo Inline-4,255,295,51000,25.0,34.0,5.5
+Audi,A5 Premium,2025,Coupe,2.0L Turbo I-4,201,236,46000,24.0,33.0,6.4
+Tesla,Roadster,2025,Roadster,Electric Motor,1000,1000,200000,nan,nan,1.9
+Nissan,Versa SV,2025,Sedan,1.6L 4-Cylinder,122,114,19000,32.0,40.0,9.7
+Subaru,WRX Limited,2025,Sedan,2.4L Turbo 4-Cylinder,271,258,39000,19.0,26.0,5.5
+Hyundai,Sonata SEL,2025,Sedan,2.5L 4-Cylinder,191,181,28000,25.0,36.0,8.0
+Kia,K5 LXS,2025,Sedan,1.6L Turbo I-4,180,195,25000,29.0,38.0,7.0
+Toyota,Corolla Hatchback,2025,Hatchback,2.0L 4-Cylinder,169,151,24000,32.0,41.0,8.5
+Ford,Bronco Sport Big Bend,2025,SUV,1.5L EcoBoost I-3,181,190,31000,25.0,28.0,8.2
+Chevrolet,Traverse LT,2025,SUV,2.5L Turbo I-4,328,326,42000,20.0,26.0,7.0
+BMW,X5 xDrive40i,2025,SUV,3.0L Turbo Inline-6,375,398,67500,23.0,27.0,4.8
+Audi,Q5 45 TFSI,2025,SUV,2.0L Turbo Inline-4,261,273,51000,23.0,29.0,5.7
+Tesla,Model Y Performance,2025,SUV,Electric Motor,455,470,55240,121.0,111.0,3.5
+Nissan,Murano Platinum,2025,SUV,3.5L V6,260,240,48000,20.0,28.0,7.3
+Subaru,Forester Sport,2025,SUV,2.5L 4-Cylinder,182,176,33000,26.0,33.0,8.7
+Hyundai,Venue SEL,2025,SUV,1.6L 4-Cylinder,121,113,22000,29.0,33.0,10.0
+Kia,Soul S,2025,Hatchback,2.0L 4-Cylinder,147,132,22000,28.0,33.0,8.8
+Toyota,Venza LE,2025,SUV,2.5L 4-Cylinder Hybrid,219,163,35000,40.0,37.0,7.6
+Ford,Mustang Mach-E California Route 1,2025,SUV,Electric Motor,290,317,50000,103.0,90.0,6.1
+Chevrolet,Corvette Stingray,2025,Coupe,6.2L V8,490,465,69000,16.0,24.0,2.9
+BMW,X7 xDrive40i,2025,SUV,3.0L Turbo Inline-6,375,398,81000,21.0,25.0,5.8
+Audi,A7 Premium,2025,Sedan,3.0L Turbo V6,335,369,70000,21.0,30.0,5.2
+Tesla,Model X Long Range,2025,SUV,Electric Motor,670,723,79990,102.0,99.0,3.8
+Nissan,Kicks S,2025,SUV,1.6L 4-Cylinder,122,114,22000,31.0,36.0,9.5
+Subaru,Solterra Premium,2025,SUV,Electric Motor,215,249,45000,114.0,94.0,6.5
+Hyundai,Ioniq 5 Limited,2025,SUV,Electric Motor,320,446,55000,110.0,87.0,5.1
+Kia,Niro EX,2025,SUV,1.6L Hybrid,139,195,30000,53.0,48.0,9.5
+Toyota,Sequoia SR5,2025,SUV,3.4L Twin-Turbo V6 Hybrid,437,583,60000,20.0,22.0,6.0
+Ford,F-150 Lariat,2025,Truck,3.5L EcoBoost V6,400,500,56000,18.0,24.0,5.4
+Chevrolet,Silverado 1500 LTZ,2025,Truck,5.3L V8,355,383,45000,16.0,21.0,6.5
+BMW,530i,2025,Sedan,2.0L Turbo Inline-4,255,295,57500,27.0,35.0,5.7
+Audi,A6 Premium,2025,Sedan,2.0L Turbo I-4,261,273,57000,24.0,31.0,6.1
+Tesla,Model S Long Range,2025,Sedan,Electric Motor,670,723,74990,120.0,114.0,3.1
+Nissan,Armada Platinum,2025,SUV,5.6L V8,400,413,65000,14.0,19.0,7.0
+Subaru,Crosstrek Premium,2025,SUV,2.0L 4-Cylinder,152,145,27000,27.0,34.0,9.5
+Hyundai,Tucson SEL,2025,SUV,2.5L 4-Cylinder,187,178,29000,25.0,32.0,8.8
+Kia,Telluride EX,2025,SUV,3.8L V6,291,262,40000,20.0,26.0,7.5
+Toyota,Tacoma Limited,2025,Truck,2.4L Turbo I-4,278,317,45000,21.0,26.0,7.5
+Ford,Explorer ST-Line,2025,SUV,2.3L EcoBoost I-4,300,310,45000,21.0,28.0,6.0
+Chevrolet,Trailblazer LT,2025,SUV,1.2L Turbo I-3,137,162,25000,29.0,33.0,9.0
+BMW,X1 M35i,2025,SUV,2.0L Turbo I-4,312,295,51000,23.0,31.0,5.2
+Audi,Q3 Premium,2025,SUV,2.0L Turbo I-4,184,221,38000,22.0,30.0,8.0
+Tesla,Model Y Long Range,2025,SUV,Electric Motor,384,420,50240,127.0,117.0,4.8
+Nissan,Frontier S,2025,Truck,3.8L V6,310,281,31000,18.0,24.0,7.5
+Subaru,Ascent Premium,2025,SUV,2.4L Turbo 4-Cylinder,260,277,37000,20.0,26.0,7.3
+Hyundai,Palisade SEL Premium,2025,SUV,3.8L V6,291,262,46000,19.0,27.0,7.1
+Kia,Sportage LX,2025,SUV,2.5L 4-Cylinder,187,178,28000,25.0,32.0,8.8
+Toyota,Highlander LE,2025,SUV,2.4L Turbo I-4,265,310,40000,22.0,29.0,7.5
+Ford,Edge SEL,2025,SUV,2.0L EcoBoost I-4,250,280,39000,21.0,28.0,7.0
+Chevrolet,Tahoe LT,2025,SUV,5.3L V8,355,383,59000,15.0,20.0,7.0
+BMW,430i Gran Coupe,2025,Sedan,2.0L Turbo Inline-4,255,295,48000,25.0,34.0,5.5
+Audi,A5 Premium Plus,2025,Coupe,2.0L Turbo I-4,201,236,50000,24.0,33.0,6.4
+Tesla,Model 3 Rear-Wheel Drive,2025,Sedan,Electric Motor,283,310,40240,132.0,125.0,5.8
+Nissan,Versa SR,2025,Sedan,1.6L 4-Cylinder,122,114,20000,32.0,40.0,9.7
+Subaru,BRZ Limited,2025,Coupe,2.4L 4-Cylinder,228,184,34000,20.0,27.0,6.0
+Hyundai,Sonata SEL,2025,Sedan,2.5L 4-Cylinder,191,181,28000,25.0,36.0,8.0
+Kia,K5 GT-Line AWD,2025,Sedan,1.6L Turbo I-4,180,195,29000,27.0,36.0,7.2
+Toyota,Corolla Hybrid LE,2025,Sedan,1.8L Hybrid,138,105,24000,50.0,47.0,9.0
+Ford,Maverick XLT,2025,Truck,2.0L EcoBoost I-4,250,277,28000,23.0,30.0,6.0
+Chevrolet,Colorado Trail Boss,2025,Truck,2.7L Turbo I-4,310,430,41000,18.0,23.0,6.5
+BMW,i4 xDrive40,2025,Sedan,Electric Motor,396,443,58000,109.0,108.0,5.1
+Audi,Q4 e-tron 40,2025,SUV,Electric Motor,201,229,50000,100.0,89.0,7.9
+Tesla,Cybertruck Beast,2025,Truck,Electric Motor,800,900,99990,95.0,90.0,2.9
+Nissan,Frontier SV,2025,Truck,3.8L V6,310,281,34000,18.0,24.0,7.5
+Subaru,Ascent Limited,2025,SUV,2.4L Turbo 4-Cylinder,260,277,42000,20.0,26.0,7.3
+Hyundai,Venue SE,2025,SUV,1.6L 4-Cylinder,121,113,21000,29.0,33.0,10.0
+Kia,Soul LX,2025,Hatchback,2.0L 4-Cylinder,147,132,20000,28.0,33.0,8.8
+Toyota,Venza XLE,2025,SUV,2.5L 4-Cylinder Hybrid,219,163,39000,40.0,37.0,7.6
+Ford,Mustang Mach-E Select,2025,SUV,Electric Motor,266,317,43000,105.0,91.0,6.1
+Chevrolet,Corvette Z51,2025,Coupe,6.2L V8,495,470,75000,16.0,24.0,2.8
+BMW,X7 xDrive50i,2025,SUV,4.4L Turbo V8,456,479,90000,19.0,24.0,5.2
+Audi,A7 Premium Plus,2025,Sedan,3.0L Turbo V6,335,369,73000,21.0,30.0,5.2
+Tesla,Model X Plaid,2025,SUV,Electric Motor,1020,1050,94990,102.0,99.0,2.5
+Nissan,Kicks SV,2025,SUV,1.6L 4-Cylinder,122,114,22000,31.0,36.0,9.5
+Subaru,Solterra Touring,2025,SUV,Electric Motor,215,249,51000,114.0,94.0,6.5
+Hyundai,Ioniq 5 SE,2025,SUV,Electric Motor,168,258,43000,127.0,94.0,7.4
+Kia,Niro LX,2025,SUV,1.6L Hybrid,139,195,28000,53.0,48.0,9.5
+Toyota,Sequoia SR5,2025,SUV,3.4L Twin-Turbo V6 Hybrid,437,583,60000,20.0,22.0,6.0
+Ford,F-150 XLT,2025,Truck,3.5L EcoBoost V6,400,500,46000,18.0,24.0,5.4
+Chevrolet,Silverado 1500 Custom,2025,Truck,5.3L V8,355,383,40000,16.0,21.0,6.5
+BMW,540i,2025,Sedan,3.0L Turbo Inline-6,375,398,65000,25.0,33.0,4.5
+Audi,A6 Premium Plus,2025,Sedan,2.0L Turbo I-4,261,273,60000,24.0,31.0,6.1
+Tesla,Model S Standard Range,2025,Sedan,Electric Motor,670,723,74990,120.0,114.0,3.1
+Nissan,Armada SV,2025,SUV,5.6L V8,400,413,55000,14.0,19.0,7.0
+Subaru,Outback Premium,2025,SUV,2.5L 4-Cylinder,182,176,32000,26.0,32.0,8.6
+Hyundai,Tucson SE,2025,SUV,2.5L 4-Cylinder,187,178,27000,25.0,32.0,8.8
+Kia,Telluride S,2025,SUV,3.8L V6,291,262,40000,20.0,26.0,7.5
+Toyota,Tacoma SR5,2025,Truck,2.4L Turbo I-4,278,317,35000,21.0,26.0,7.5
+Ford,Explorer Platinum,2025,SUV,3.0L EcoBoost V6,400,415,56000,18.0,24.0,5.2
+Chevrolet,Equinox Premier,2025,SUV,1.5L Turbo I-4,175,203,31000,26.0,31.0,8.7
+BMW,X3 M40i,2025,SUV,3.0L Turbo Inline-6,382,369,62000,21.0,26.0,4.4
+Audi,Q3 Premium Plus,2025,SUV,2.0L Turbo I-4,184,221,40000,22.0,30.0,8.0
+Tesla,Model Y Long Range AWD,2025,SUV,Electric Motor,384,420,50240,127.0,117.0,4.8
+Nissan,Pathfinder SL,2025,SUV,3.5L V6,284,259,44000,21.0,27.0,6.7
+Subaru,Impreza Premium,2025,Hatchback,2.0L 4-Cylinder,152,145,25000,26.0,34.0,9.5
+Hyundai,Santa Fe SE,2025,SUV,2.5L Turbo I-4,277,311,36000,20.0,28.0,7.0
+Kia,Carnival EX,2025,Minivan,3.5L V6,290,262,39000,19.0,26.0,8.5
+Toyota,Tundra SR5,2025,Truck,3.4L Twin-Turbo V6,389,479,47000,18.0,24.0,6.0
+Ford,Edge SEL,2025,SUV,2.0L EcoBoost I-4,250,280,39000,21.0,28.0,7.0
+Chevrolet,Traverse LS,2025,SUV,2.5L Turbo I-4,328,326,39000,20.0,26.0,7.0
+BMW,430i,2025,Coupe,2.0L Turbo Inline-4,255,295,51000,25.0,34.0,5.5
+Audi,A5 Sportback Premium,2025,Sedan,2.0L Turbo I-4,201,236,46000,24.0,33.0,6.4
+Tesla,Model 3 Standard Range Plus,2025,Sedan,Electric Motor,283,310,40240,132.0,125.0,5.8
+Nissan,Versa S,2025,Sedan,1.6L 4-Cylinder,122,114,18000,32.0,40.0,9.7
+Subaru,WRX Base,2025,Sedan,2.4L Turbo 4-Cylinder,271,258,33000,19.0,26.0,5.5
+Hyundai,Sonata SE,2025,Sedan,2.5L 4-Cylinder,191,181,28000,25.0,36.0,8.0
+Kia,K5 LX,2025,Sedan,1.6L Turbo I-4,180,195,24000,29.0,38.0,7.0
+Toyota,Corolla SE,2025,Sedan,2.0L 4-Cylinder,169,151,24000,32.0,41.0,8.5
+Ford,Maverick Lariat Hybrid,2025,Truck,2.5L Hybrid I-4,191,155,33000,42.0,33.0,7.9
+Chevrolet,Colorado ZR2,2025,Truck,2.7L Turbo I-4,310,430,50000,18.0,23.0,6.5
+BMW,i4 eDrive40,2025,Sedan,Electric Motor,335,317,52500,109.0,108.0,5.5
+Audi,Q4 Sportback e-tron 40,2025,SUV,Electric Motor,201,229,53000,100.0,89.0,7.9
+Tesla,Cybertruck Tri-Motor,2025,Truck,Electric Motor,800,900,80990,95.0,90.0,2.9
+Nissan,Frontier SL,2025,Truck,3.8L V6,310,281,38000,18.0,24.0,7.5
+Subaru,Ascent Base,2025,SUV,2.4L Turbo 4-Cylinder,260,277,35000,20.0,26.0,7.3
+Hyundai,Venue Limited,2025,SUV,1.6L 4-Cylinder,121,113,24000,29.0,33.0,10.0
+Kia,Soul EX,2025,Hatchback,2.0L 4-Cylinder,147,132,24000,28.0,33.0,8.8
+Toyota,Venza Nightshade,2025,SUV,2.5L 4-Cylinder Hybrid,219,163,40000,40.0,37.0,7.6
+Ford,Mustang Mach-E Premium,2025,SUV,Electric Motor,266,317,47000,105.0,91.0,6.1
+Chevrolet,Corvette Z51,2025,Coupe,6.2L V8,495,470,75000,16.0,24.0,2.8
+BMW,X7 xDrive40i,2025,SUV,3.0L Turbo Inline-6,375,398,81000,21.0,25.0,5.8
+Audi,A7 Premium,2025,Sedan,3.0L Turbo V6,335,369,70000,21.0,30.0,5.2
+Tesla,Model X Plaid,2025,SUV,Electric Motor,1020,1050,94990,102.0,99.0,2.5
+Nissan,Kicks SR,2025,SUV,1.6L 4-Cylinder,122,114,24000,31.0,36.0,9.5
+Subaru,Solterra Limited,2025,SUV,Electric Motor,215,249,48000,114.0,94.0,6.5
+Hyundai,Ioniq 5 SE,2025,SUV,Electric Motor,168,258,43000,127.0,94.0,7.4
+Kia,Niro Hybrid,2025,SUV,1.6L Hybrid,139,195,28000,53.0,48.0,9.5
+Toyota,Sequoia Platinum,2025,SUV,3.4L Twin-Turbo V6 Hybrid,437,583,80000,20.0,22.0,6.0
+Ford,F-150 Lariat,2025,Truck,3.5L EcoBoost V6,400,500,56000,18.0,24.0,5.4
+Chevrolet,Silverado 1500 LT Trail Boss,2025,Truck,5.3L V8,355,383,49000,16.0,21.0,6.5
+BMW,530i,2025,Sedan,2.0L Turbo Inline-4,255,295,57500,27.0,35.0,5.7
+Audi,A6 Premium,2025,Sedan,2.0L Turbo I-4,261,273,57000,24.0,31.0,6.1
+Tesla,Model S Long Range,2025,Sedan,Electric Motor,670,723,74990,120.0,114.0,3.1
+Nissan,Armada SL,2025,SUV,5.6L V8,400,413,60000,14.0,19.0,7.0
+Subaru,Outback Premium,2025,SUV,2.5L 4-Cylinder,182,176,32000,26.0,32.0,8.6
+Hyundai,Tucson SEL,2025,SUV,2.5L 4-Cylinder,187,178,29000,25.0,32.0,8.8
+Kia,Telluride S,2025,SUV,3.8L V6,291,262,40000,20.0,26.0,7.5
+Toyota,Tacoma SR,2025,Truck,2.4L Turbo I-4,278,317,32000,21.0,26.0,7.5
+Ford,Bronco Sport Outer Banks,2025,SUV,2.0L EcoBoost I-4,250,277,38000,21.0,26.0,6.5
+Chevrolet,Blazer EV LT,2025,SUV,Electric Motor,240,300,45000,103.0,88.0,6.0
+BMW,X3 M40i,2025,SUV,3.0L Turbo Inline-6,382,369,62000,21.0,26.0,4.4
+Audi,Q3 S Line,2025,SUV,2.0L Turbo I-4,228,258,42000,22.0,30.0,7.0
+Tesla,Model 3 Long Range AWD,2025,Sedan,Electric Motor,393,400,47240,131.0,120.0,4.2
+Nissan,Pathfinder Platinum,2025,SUV,3.5L V6,284,259,50000,21.0,27.0,6.7
+Subaru,Impreza RS,2025,Hatchback,2.5L 4-Cylinder,182,178,27000,26.0,34.0,8.5
+Hyundai,Santa Fe Limited,2025,SUV,2.5L Turbo I-4,277,311,43000,20.0,28.0,7.0
+Kia,Carnival SX Prestige,2025,Minivan,3.5L V6,290,262,49000,19.0,26.0,8.5
+Toyota,Tundra Limited Hybrid,2025,Truck,3.4L Twin-Turbo V6 Hybrid,437,583,56000,20.0,24.0,5.7
+Ford,Edge ST,2025,SUV,2.7L EcoBoost V6,335,380,47000,19.0,26.0,6.0
+Chevrolet,Trailblazer RS,2025,SUV,1.3L Turbo I-3,155,174,26000,29.0,33.0,8.7
+BMW,430i xDrive,2025,Coupe,2.0L Turbo Inline-4,255,295,53000,24.0,33.0,5.6
+Audi,A5 Sportback Premium Plus,2025,Sedan,2.0L Turbo I-4,201,236,50000,24.0,33.0,6.4
+Tesla,Model 3 Performance,2025,Sedan,Electric Motor,455,470,55000,113.0,109.0,3.5
+Nissan,Frontier PRO-X,2025,Truck,3.8L V6,310,281,38000,18.0,24.0,7.5
+Subaru,WRX Premium,2025,Sedan,2.4L Turbo 4-Cylinder,271,258,35000,19.0,26.0,5.5
+Hyundai,Sonata N Line,2025,Sedan,2.5L Turbo I-4,290,311,35000,23.0,33.0,5.3
+Kia,K5 GT,2025,Sedan,2.5L Turbo I-4,290,311,31000,24.0,32.0,5.7
+Toyota,Corolla Cross Hybrid SE,2025,SUV,2.0L 4-Cylinder Hybrid,194,139,29000,45.0,43.0,8.0
+Ford,Maverick Lariat,2025,Truck,2.0L EcoBoost I-4,250,277,31000,23.0,30.0,6.0
+Chevrolet,Colorado Z71,2025,Truck,2.7L Turbo I-4,310,430,38000,18.0,23.0,6.5
+BMW,i4 eDrive35,2025,Sedan,Electric Motor,282,295,50000,109.0,108.0,5.8
+Audi,Q4 Sportback e-tron 50,2025,SUV,Electric Motor,295,339,58000,100.0,89.0,6.0
+Tesla,Cybertruck Beast,2025,Truck,Electric Motor,800,900,99990,95.0,90.0,2.9
+Nissan,Pathfinder SV,2025,SUV,3.5L V6,284,259,38000,21.0,27.0,6.7
+Subaru,Outback Wilderness,2025,SUV,2.4L Turbo 4-Cylinder,260,277,39000,22.0,26.0,7.5
+Hyundai,Palisade SEL,2025,SUV,3.8L V6,291,262,42000,19.0,27.0,7.1
+Kia,Sportage SX,2025,SUV,2.5L 4-Cylinder,187,178,33000,25.0,32.0,8.8
+Toyota,RAV4 LE,2025,SUV,2.5L 4-Cylinder,203,184,29000,27.0,35.0,8.0
+Ford,Mustang EcoBoost,2025,Coupe,2.3L EcoBoost I-4,315,350,31000,22.0,33.0,5.1
+Chevrolet,Malibu LS,2025,Sedan,1.5L Turbo I-4,160,184,25000,27.0,35.0,8.2
+BMW,X1 xDrive28i,2025,SUV,2.0L Turbo I-4,241,295,41000,25.0,34.0,6.2
+Audi,A3 Premium Plus,2025,Sedan,2.0L Turbo I-4,201,221,39000,29.0,38.0,6.3
+Tesla,Model Y Standard Range,2025,SUV,Electric Motor,283,310,45240,127.0,117.0,5.8
+Nissan,Kicks SV,2025,SUV,1.6L 4-Cylinder,122,114,22000,31.0,36.0,9.5
+Subaru,Forester Touring,2025,SUV,2.5L 4-Cylinder,182,176,37000,26.0,33.0,8.7
+Hyundai,Tucson Hybrid SEL,2025,SUV,1.6L Turbo Hybrid,226,258,32000,38.0,38.0,7.5
+Kia,Sorento S,2025,SUV,2.5L 4-Cylinder,191,181,34000,24.0,29.0,8.5
+Toyota,Highlander XSE,2025,SUV,2.4L Turbo I-4,265,310,45000,22.0,29.0,7.5
+Ford,Explorer ST,2025,SUV,3.0L EcoBoost V6,400,415,50000,18.0,24.0,5.2
+Chevrolet,Tahoe High Country,2025,SUV,6.2L V8,420,460,78000,14.0,19.0,6.0
+BMW,5 Series xDrive40i,2025,Sedan,3.0L Turbo Inline-6,375,398,63000,27.0,35.0,4.5
+Audi,A6 Premium,2025,Sedan,2.0L Turbo I-4,261,273,57000,24.0,31.0,6.1
+Tesla,Model S Plaid,2025,Sedan,Electric Motor,1020,1050,89990,113.0,103.0,2.1
+Nissan,Armada Platinum,2025,SUV,5.6L V8,400,413,65000,14.0,19.0,7.0
+Subaru,Crosstrek Limited,2025,SUV,2.5L 4-Cylinder,182,176,32000,26.0,33.0,8.7
+Hyundai,Palisade SEL,2025,SUV,3.8L V6,291,262,42000,19.0,27.0,7.1
+Kia,Sportage Hybrid EX,2025,SUV,1.6L Turbo Hybrid,226,258,35000,38.0,38.0,7.5
+Toyota,RAV4 XLE Premium,2025,SUV,2.5L 4-Cylinder,203,184,35000,27.0,35.0,8.0
+Ford,Mustang GT,2025,Coupe,5.0L V8,480,415,42000,15.0,24.0,4.3
+Chevrolet,Malibu 2LT,2025,Sedan,1.5L Turbo I-4,160,184,30000,27.0,35.0,8.2
+BMW,X1 xDrive28i,2025,SUV,2.0L Turbo I-4,241,295,41000,25.0,34.0,6.2
+Audi,Q3 Premium,2025,SUV,2.0L Turbo I-4,184,221,38000,22.0,30.0,8.0
+Tesla,Model X Long Range,2025,SUV,Electric Motor,670,723,79990,102.0,99.0,3.8
+Nissan,Pathfinder Platinum,2025,SUV,3.5L V6,284,259,50000,21.0,27.0,6.7
+Subaru,Impreza Premium,2025,Hatchback,2.0L 4-Cylinder,152,145,25000,26.0,34.0,9.5
+Hyundai,Santa Fe Limited,2025,SUV,2.5L Turbo I-4,277,311,43000,20.0,28.0,7.0
+Kia,Carnival SX,2025,Minivan,3.5L V6,290,262,46000,19.0,26.0,8.5
+Toyota,Tundra Limited,2025,Truck,3.4L Twin-Turbo V6,389,479,54000,18.0,24.0,6.0
+Ford,Edge Titanium,2025,SUV,2.0L EcoBoost I-4,250,280,42000,21.0,28.0,7.0
+Chevrolet,Traverse Z71,2025,SUV,2.5L Turbo I-4,328,326,46000,20.0,26.0,7.0
+BMW,430i Gran Coupe,2025,Sedan,2.0L Turbo Inline-4,255,295,48000,25.0,34.0,5.5
+Audi,A5 Sportback Premium Plus,2025,Sedan,2.0L Turbo I-4,201,236,50000,24.0,33.0,6.4
+Tesla,Model 3 Long Range AWD,2025,Sedan,Electric Motor,393,400,47240,131.0,120.0,4.2
+Nissan,Versa SR,2025,Sedan,1.6L 4-Cylinder,122,114,20000,32.0,40.0,9.7
+Subaru,WRX Limited,2025,Sedan,2.4L Turbo 4-Cylinder,271,258,39000,19.0,26.0,5.5
+Hyundai,Sonata SEL,2025,Sedan,2.5L 4-Cylinder,191,181,28000,25.0,36.0,8.0
+Kia,K5 LXS,2025,Sedan,1.6L Turbo I-4,180,195,25000,29.0,38.0,7.0
+Toyota,Corolla Hybrid LE,2025,Sedan,1.8L Hybrid,138,105,24000,50.0,47.0,9.0
+Ford,Maverick XLT,2025,Truck,2.0L EcoBoost I-4,250,277,28000,23.0,30.0,6.0
+Chevrolet,Colorado Trail Boss,2025,Truck,2.7L Turbo I-4,310,430,41000,18.0,23.0,6.5
+BMW,i4 xDrive40,2025,Sedan,Electric Motor,396,443,58000,109.0,108.0,5.1
+Audi,Q4 Sportback e-tron 40,2025,SUV,Electric Motor,201,229,53000,100.0,89.0,7.9
+Tesla,Cybertruck Tri-Motor,2025,Truck,Electric Motor,800,900,80990,95.0,90.0,2.9
+Nissan,Frontier SV,2025,Truck,3.8L V6,310,281,34000,18.0,24.0,7.5
+Subaru,Ascent Premium,2025,SUV,2.4L Turbo 4-Cylinder,260,277,37000,20.0,26.0,7.3
+Hyundai,Venue SEL,2025,SUV,1.6L 4-Cylinder,121,113,22000,29.0,33.0,10.0
+Kia,Soul EX,2025,Hatchback,2.0L 4-Cylinder,147,132,24000,28.0,33.0,8.8
+Toyota,Venza Nightshade,2025,SUV,2.5L 4-Cylinder Hybrid,219,163,40000,40.0,37.0,7.6
+Ford,Mustang Mach-E Premium,2025,SUV,Electric Motor,266,317,47000,105.0,91.0,6.1
+Chevrolet,Corvette Z51,2025,Coupe,6.2L V8,495,470,75000,16.0,24.0,2.8
+BMW,X7 xDrive40i,2025,SUV,3.0L Turbo Inline-6,375,398,81000,21.0,25.0,5.8
+Audi,A7 Premium,2025,Sedan,3.0L Turbo V6,335,369,70000,21.0,30.0,5.2
+Tesla,Model X Long Range,2025,SUV,Electric Motor,670,723,79990,102.0,99.0,3.8
+Nissan,Kicks SV,2025,SUV,1.6L 4-Cylinder,122,114,22000,31.0,36.0,9.5
+Subaru,Solterra Limited,2025,SUV,Electric Motor,215,249,48000,114.0,94.0,6.5
+Hyundai,Ioniq 5 SE,2025,SUV,Electric Motor,168,258,43000,127.0,94.0,7.4
+Kia,Niro Hybrid,2025,SUV,1.6L Hybrid,139,195,28000,53.0,48.0,9.5
+Toyota,Sequoia Platinum,2025,SUV,3.4L Twin-Turbo V6 Hybrid,437,583,80000,20.0,22.0,6.0
+Ford,F-150 Lariat,2025,Truck,3.5L EcoBoost V6,400,500,56000,18.0,24.0,5.4
+Chevrolet,Silverado 1500 LT Trail Boss,2025,Truck,5.3L V8,355,383,49000,16.0,21.0,6.5
+BMW,530i,2025,Sedan,2.0L Turbo Inline-4,255,295,57500,27.0,35.0,5.7
+Audi,A6 Premium,2025,Sedan,2.0L Turbo I-4,261,273,57000,24.0,31.0,6.1
+Tesla,Model S Long Range,2025,Sedan,Electric Motor,670,723,74990,120.0,114.0,3.1
+Nissan,Armada SL,2025,SUV,5.6L V8,400,413,60000,14.0,19.0,7.0
+Subaru,Outback Premium,2025,SUV,2.5L 4-Cylinder,182,176,32000,26.0,32.0,8.6
+Hyundai,Tucson SEL,2025,SUV,2.5L 4-Cylinder,187,178,29000,25.0,32.0,8.8
+Kia,Telluride S,2025,SUV,3.8L V6,291,262,40000,20.0,26.0,7.5
+Toyota,Tacoma SR,2025,Truck,2.4L Turbo I-4,278,317,32000,21.0,26.0,7.5
+Ford,Bronco Sport Outer Banks,2025,SUV,2.0L EcoBoost I-4,250,277,38000,21.0,26.0,6.5
+Chevrolet,Blazer EV LT,2025,SUV,Electric Motor,240,300,45000,103.0,88.0,6.0
+BMW,X3 M40i,2025,SUV,3.0L Turbo Inline-6,382,369,62000,21.0,26.0,4.4
+Audi,Q3 S Line,2025,SUV,2.0L Turbo I-4,228,258,42000,22.0,30.0,7.0
+Tesla,Model 3 Long Range AWD,2025,Sedan,Electric Motor,393,400,47240,131.0,120.0,4.2
+Nissan,Pathfinder Platinum,2025,SUV,3.5L V6,284,259,50000,21.0,27.0,6.7
+Subaru,Impreza RS,2025,Hatchback,2.5L 4-Cylinder,182,178,27000,26.0,34.0,8.5
+Hyundai,Santa Fe Limited,2025,SUV,2.5L Turbo I-4,277,311,43000,20.0,28.0,7.0
+Kia,Carnival SX Prestige,2025,Minivan,3.5L V6,290,262,49000,19.0,26.0,8.5
+Toyota,Tundra Limited Hybrid,2025,Truck,3.4L Twin-Turbo V6 Hybrid,437,583,56000,20.0,24.0,5.7
+Ford,Edge ST,2025,SUV,2.7L EcoBoost V6,335,380,47000,19.0,26.0,6.0
+Chevrolet,Trailblazer RS,2025,SUV,1.3L Turbo I-3,155,174,26000,29.0,33.0,8.7
+BMW,430i xDrive,2025,Coupe,2.0L Turbo Inline-4,255,295,53000,24.0,33.0,5.6
+Audi,A5 Sportback Premium Plus,2025,Sedan,2.0L Turbo I-4,201,236,50000,24.0,33.0,6.4
+Tesla,Model 3 Performance,2025,Sedan,Electric Motor,455,470,55000,113.0,109.0,3.5
+Nissan,Frontier PRO-X,2025,Truck,3.8L V6,310,281,38000,18.0,24.0,7.5
+Subaru,WRX Premium,2025,Sedan,2.4L Turbo 4-Cylinder,271,258,35000,19.0,26.0,5.5
+Hyundai,Sonata N Line,2025,Sedan,2.5L Turbo I-4,290,311,35000,23.0,33.0,5.3
+Kia,K5 GT,2025,Sedan,2.5L Turbo I-4,290,311,31000,24.0,32.0,5.7
+Toyota,Corolla Cross Hybrid SE,2025,SUV,2.0L 4-Cylinder Hybrid,194,139,29000,45.0,43.0,8.0
+Ford,Maverick Lariat,2025,Truck,2.0L EcoBoost I-4,250,277,31000,23.0,30.0,6.0
+Chevrolet,Colorado Z71,2025,Truck,2.7L Turbo I-4,310,430,38000,18.0,23.0,6.5
+BMW,i4 eDrive35,2025,Sedan,Electric Motor,282,295,50000,109.0,108.0,5.8
