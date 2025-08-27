@@ -3,13 +3,12 @@ import random
 import re
 import csv
 
-
 fake = Faker()
 
-header = "first_name,last_name,email,phone_number,gender,age\n"
+header = ["first_name", "last_name", "email", "phone", "gender", "age"]
 file = open("fake_data.csv", "w", newline="")
-file.write(header)
 writer = csv.writer(file)
+writer.writerow(header)
 
 dirty_counter = 0
 
