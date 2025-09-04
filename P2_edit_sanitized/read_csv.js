@@ -12,8 +12,8 @@ document.getElementById('fileInput').addEventListener('change', function (event)
             let table_header = $("#table_header");
             table_header.text("");
             let header_elements = header.split(",");
-            header_elements.forEach(h_elem =>{
-                let th = $("<th>").text(h_elem);
+            header_elements.forEach(h_elem => {
+                let th = $("<th>").text(h_elem)//.attr({"class" : "sticky-top"});
                 table_header.append(th);
             });
             let table = $("#file_content");
@@ -21,7 +21,8 @@ document.getElementById('fileInput').addEventListener('change', function (event)
             rows.forEach(row => {
                 row = row.split(",");
                 let tableRow = $("<tr>");
-                row.forEach(row_element =>{
+                tableRow.attr({ "onclick": "highlightRow(this)" });
+                row.forEach(row_element => {
                     let tableInput = $("<td>").append($("<input></input>").val(row_element).attr({ "class": "form-control" }));
                     tableRow.append(tableInput);
                 });
@@ -32,24 +33,35 @@ document.getElementById('fileInput').addEventListener('change', function (event)
     }
 });
 
+function highlightRow(row) {
+    console.log(row)
+    const allRows = document.querySelectorAll('tr');
+    allRows.forEach(r => r.classList.remove('table-dark'));
+    row.classList.add("table-dark");
+}
+
 function saveFile() {
     console.log("Function executed...");
     let cajones = $(".form-control");
     let count = 0;
     let row = "";
     let csv_data = header + "\n";
-    for (let i = 1; i <= cajones.length - 1; i++) {
-        count++;
-        if (count == 6) {
-            row += cajones[i].value;
-            csv_data += row + "\n";
-            row = "";
-            count = 0;
-        } else {
-            row += cajones[i].value + ",";
+    if (cajones.length == 1) {
+        alert("Por favor, abra un archivo para modificar");
+    } else {
+        for (let i = 1; i <= cajones.length - 1; i++) {
+            count++;
+            if (count == 6) {
+                row += cajones[i].value;
+                csv_data += row + "\n";
+                row = "";
+                count = 0;
+            } else {
+                row += cajones[i].value + ",";
+            }
         }
+        downloadTextFile(csv_data);
     }
-    downloadTextFile(csv_data);
 }
 
 function downloadTextFile(csvData) {
